@@ -301,5 +301,7 @@ r.selectNode(document.getElementById(id));
 window.getSelection().removeAllRanges();
 window.getSelection().addRange(r);
 document.execCommand('copy');
+document.
 window.getSelection().removeAllRanges();
+
 }

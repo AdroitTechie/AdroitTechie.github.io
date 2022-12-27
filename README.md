@@ -1,2 +1,1 @@
-# taran.github.io-master
- 
+# Taran Mamidala Personal website
